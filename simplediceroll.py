@@ -12,5 +12,3 @@ def rolldice(min, max):
 
 
 rolldice(1,12)
-
-###p0225
