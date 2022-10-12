@@ -11,4 +11,6 @@ def rolldice(min, max):
             break
 
 
-rolldice(1,6)
+rolldice(1,12)
+
+###p0225
